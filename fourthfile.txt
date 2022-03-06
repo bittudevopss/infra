@@ -1,0 +1,7 @@
+hi this is nithin reddy 
+this git has 4 stages
+working area
+staging area
+local repository
+remote repository
+
